@@ -9,3 +9,5 @@ bin
 application.properties
 
 *.class
+
+null
