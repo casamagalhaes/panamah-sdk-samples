@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - SampleApp",
+			"request": "launch",
+			"mainClass": "panamah.sample.gradle.SampleApp",
+			"projectName": "panamah-sample-gradle"
+		}
+	]
+}

@@ -5,8 +5,8 @@ Projeto de exemplo de uso da sdk do panamah
 ## Dependência
 
 ```groovy
-    // https://bintray.com/beta/#/casamagalhaes/panamah-java-sdk/panamah-java-sdk/0.3.2?tab=overview
-    implementation 'br.com.casamagalhaes.panamah.sdk:panamah-sdk:0.3.2'
+    // https://bintray.com/beta/#/casamagalhaes/panamah-java-sdk/panamah-java-sdk/2.1.5?tab=overview
+    implementation 'br.com.casamagalhaes.panamah.sdk:panamah-sdk:2.1.5'
 ```
 
 ## Configuração de repositório
@@ -23,5 +23,11 @@ repositories {
 ```
 
 Isso baixará com sucesso as dependências e a própria sdk do panamah
+
+## Executando
+
+```bash
+./gradlew run
+```
 
 Visite a [documentação oficial](https://sdk.panamah.io/) para entender o funcionamento.
